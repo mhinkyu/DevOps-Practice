@@ -17,7 +17,7 @@ Git, terraform, ansible, packer,Jenkins, in order to get small sense in the work
 
 ### Start with 
 Pull ubuntu onto your docker.
-<img src=Docker.png />
+<img src=images/Docker.png />
 
 Using Docker extansion in VS CODE connect to your newley created contanier 
-<img src=contanier.png />
+<img src=images/contanier.png />
